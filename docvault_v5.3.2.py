@@ -11,7 +11,7 @@ VERSION = "5.3.2"
 # ║  LIZENZSCHUTZ: SHA-256 Hash mit Salt + Ablaufdatum          ║
 # ║  Format: TIMESTAMP-SHA256(TIMESTAMP|Salt)[:16]              ║
 # ╚══════════════════════════════════════════════════════════════╝
-LIC_SALT = "PAXINTOTHEFUTURE"
+LIC_SALT = "#Floetzinger#"
 
 # ═══════════════════════════════════════════════════════════════
 # ZWEISPRACHIG (Deutsch / English)
@@ -3294,6 +3294,7 @@ Schweiz
 Tel: +41 (0)44 585 30 31
 Web: www.cadtec.ch
 Frage stellen: https://www.cad-schweiz.ch/FRAGE-ANTWORT/
+Quellcode: https://github.com/cadcam-etik/DocVault
 
 HAFTUNGSAUSSCHLUSS:
 DocVault wird „wie besehen" ohne jegliche Gewährleistung bereitgestellt. \
@@ -3325,6 +3326,7 @@ Switzerland
 Phone: +41 (0)44 585 30 31
 Web: www.cadtec.ch
 Ask a question: https://www.cad-schweiz.ch/FRAGE-ANTWORT/
+Source code: https://github.com/cadcam-etik/DocVault
 
 DISCLAIMER:
 DocVault is provided "as is" without any warranty. Use at your own risk. \
@@ -3518,7 +3520,8 @@ _OSS_LICENSES_DE = """═══════════════════�
   Quelle:       https://github.com/pymupdf/PyMuPDF
   Hinweis:      AGPL erfordert, dass der Quellcode dieser Anwendung
                 verfügbar gemacht wird. DocVault wird als
-                Spendenbasierte Open-Source-Software veröffentlicht.
+                spendenbasierte Open-Source-Software veröffentlicht.
+                Quellcode: https://github.com/cadcam-etik/DocVault
 
 ── CustomTkinter ───────────────────────────────────
   Beschreibung: Moderne GUI-Bibliothek basierend auf Tkinter
@@ -3596,7 +3599,7 @@ _OSS_LICENSES_DE = """═══════════════════�
 ══════════════════════════════════════════════════════
   DocVault © CADTEC GmbH – www.cadtec.ch
   Vertrieb auf freiwilliger Spendenbasis.
-  Der Quellcode ist einsehbar (AGPL-konform).
+  Quellcode: https://github.com/cadcam-etik/DocVault
 ══════════════════════════════════════════════════════"""
 
 _OSS_LICENSES_EN = """══════════════════════════════════════════════════════
@@ -3612,6 +3615,7 @@ _OSS_LICENSES_EN = """═══════════════════�
   Note:        AGPL requires that the source code of this
                application is made available. DocVault is
                published as donation-based open source software.
+               Source: https://github.com/cadcam-etik/DocVault
 
 ── CustomTkinter ───────────────────────────────────
   Description: Modern GUI library based on Tkinter
@@ -3689,7 +3693,7 @@ _OSS_LICENSES_EN = """═══════════════════�
 ══════════════════════════════════════════════════════
   DocVault © CADTEC GmbH – www.cadtec.ch
   Distributed on a voluntary donation basis.
-  Source code is available (AGPL-compliant).
+  Source code: https://github.com/cadcam-etik/DocVault
 ══════════════════════════════════════════════════════"""
 
 
