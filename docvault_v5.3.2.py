@@ -11,7 +11,7 @@ VERSION = "5.3.2"
 # ║  LIZENZSCHUTZ: SHA-256 Hash mit Salt + Ablaufdatum          ║
 # ║  Format: TIMESTAMP-SHA256(TIMESTAMP|Salt)[:16]              ║
 # ╚══════════════════════════════════════════════════════════════╝
-LIC_SALT = "#Floetzinger#"
+LIC_SALT = "THATSTHEBEGINNING"
 
 # ═══════════════════════════════════════════════════════════════
 # ZWEISPRACHIG (Deutsch / English)
